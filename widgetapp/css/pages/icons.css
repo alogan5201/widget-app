@@ -1,0 +1,86 @@
+/* -- custom css for file icons.html -- */
+
+/* -- fa f7-icons -- */
+#obj-51156 {
+	font-size: 25px;
+}
+
+/* -- fa f7-icons -- */
+#obj-96989 {
+	font-size: 25px;
+}
+
+/* -- fa text-muted material-icons -- */
+#obj-65720 {
+	font-size: 25px;
+}
+
+/* -- fa text-success f7-icons -- */
+#obj-35153 {
+	font-size: 25px;
+}
+
+/* -- fa f7-icons -- */
+#obj-13199 {
+	font-size: 25px;
+}
+
+/* -- fa rounded f7-icons s-7 p-2 text-white -- */
+#obj-91892 {
+	border: 0px solid;
+	 background-color: rgb(124, 189, 176);
+}
+
+/* -- fa text-white rounded f7-icons s-7 p-2 -- */
+#obj-918921 {
+	border: 0px solid;
+	 background-color: rgb(132, 174, 202);
+}
+
+/* -- fa text-white rounded f7-icons s-7 p-2 -- */
+#obj-9189211 {
+	border: 0px solid;
+	 background-color: rgb(244, 86, 89);
+}
+
+/* -- fa text-white rounded f7-icons s-7 p-2 -- */
+#obj-91892111 {
+	border: 0px solid;
+	 background-color: rgb(239, 212, 94);
+}
+
+/* -- block custom-block block-strong inset -- */
+#obj-63895 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- fa btn-icon fa-facebook-square s-6 -- */
+#obj-83238 {
+	color: rgb(59, 89, 152);
+}
+
+/* -- fa btn-icon fa-instagram s-6 -- */
+#obj-10305 {
+	color: rgb(81, 127, 164);
+}
+
+/* -- fa btn-icon fa-twitter-square s-6 -- */
+#obj-77712 {
+	color: rgb(0, 172, 237);
+}
+
+/* -- fa btn-icon fa-google-plus-square s-6 -- */
+#obj-31422 {
+	color: rgb(221, 75, 57);
+}
+
+/* -- fa btn-icon fa-linkedin-square s-6 -- */
+#obj-68062 {
+	color: rgb(0, 123, 182);
+}
+

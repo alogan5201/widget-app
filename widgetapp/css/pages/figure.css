@@ -1,0 +1,25 @@
+/* -- custom css for file figure.html -- */
+
+/* -- figure mb-4 -- */
+#obj-10989 {
+	background-image: url("../../img/17015.jpg");
+	 height: 230px;
+	 background-size: cover;
+}
+
+/* -- flexbox display-flex flex-column justify-content-center align-items-center flex-nowrap -- */
+#obj-61889 {
+	height: 206px;
+}
+
+/* -- h6 text-white -- */
+#obj-80893 {
+	font-size: 13px;
+}
+
+/* -- figure embed-responsive embed-responsive-16by9 -- */
+#obj-85035 {
+	background-image: url("../../img/93987.jpg");
+	 background-size: cover;
+}
+

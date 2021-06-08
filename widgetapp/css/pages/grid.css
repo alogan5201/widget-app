@@ -1,0 +1,97 @@
+/* -- custom css for file grid.html -- */
+
+/* -- row text-center -- */
+#obj-50144 {
+	border: 1px dotted rgb(25, 107, 250);
+}
+
+/* -- block custom-block m-0 -- */
+#obj-15407 {
+	background-color: rgba(159, 159, 159, 0.4);
+}
+
+/* -- block custom-block block-strong inset -- */
+#obj-49688 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- flexbox display-flex flex-row justify-content-center align-items-center flex-nowrap text-white -- */
+#obj-61817 {
+	height: 50px;
+	 background-color: rgb(73, 115, 171);
+}
+
+/* -- flexbox display-flex flex-row justify-content-center align-items-center flex-nowrap -- */
+#obj-19922 {
+	height: 50px;
+	 background-color: rgb(41, 136, 99);
+}
+
+/* -- flexbox display-flex flex-row justify-content-center align-items-center flex-nowrap -- */
+#obj-30323 {
+	height: 50px;
+	 background-color: rgb(244, 86, 89);
+}
+
+/* -- block custom-block block-strong inset -- */
+#obj-83807 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- flexbox display-flex flex-row justify-content-center align-items-center flex-nowrap text-white -- */
+#obj-16833 {
+	height: 150px;
+	 background-color: rgb(73, 115, 171);
+}
+
+/* -- flexbox display-flex flex-row justify-content-center align-items-center flex-nowrap text-white -- */
+#obj-168331 {
+	height: 150px;
+	 background-color: rgb(244, 86, 89);
+}
+
+/* -- block custom-block text-center block-strong inset -- */
+#obj-43581 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- fa bg-danger text-white f7-icons s-6 p-2 rounded-circle -- */
+#obj-84468 {
+	border: 0px solid;
+}
+
+/* -- fa text-white bg-primary material-icons s-6 p-2 rounded-circle -- */
+#obj-844681 {
+	border: 0px solid;
+}
+
+/* -- fa rounded bg-success text-white fa-calendar-minus-o s-6 p-2 -- */
+#obj-65438 {
+	border: 0px;
+}
+
+/* -- fa bg-info text-white rounded f7-icons s-6 p-2 -- */
+#obj-73208 {
+	border: 0px;
+}
+
+/* -- fa text-white f7-icons s-6 p-2 -- */
+#obj-22932 {
+	background-color: rgb(41, 41, 41);
+}
+

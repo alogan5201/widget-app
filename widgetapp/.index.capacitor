@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html lang="en"   >
+<head>
+  <meta charset="UTF-8">
+  <title>Thorium WebApp Widgets</title>
+  <meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="Format-detection" content="telephone=no">
+  <meta name="msapplication-tap-highlight" content="no">
+  <script type="Module" src="https://unpkg.com/@ionic/pwa-elements@latest/dist/ionicpwaelements/ionicpwaelements.esm.js"></script>
+  <script nomodule src="https://unpkg.com/@ionic/pwa-elements@latest/dist/ionicpwaelements/ionicpwaelements.js"></script>
+  <meta name="theme-color" content="rgb(251,26,40)">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link id="mainfont" href="https://fonts.googleapis.com/css?family=Abril+Fatface|Aclonica|Adamina" rel="stylesheet">
+  <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/framework7.bundle.min.css">
+  <link rel="stylesheet" href="css/thorium.min.css">
+  <link rel="stylesheet" href="css/pages/typographie.css">
+  <link rel="stylesheet" href="css/pages/buttons.css">
+  <link rel="stylesheet" href="css/pages/icons.css">
+  <link rel="stylesheet" href="css/pages/images.css">
+  <link rel="stylesheet" href="css/pages/grid.css">
+  <link rel="stylesheet" href="css/pages/accordion.css">
+  <link rel="stylesheet" href="css/pages/chipstags.css">
+  <link rel="stylesheet" href="css/pages/fab.css">
+  <link rel="stylesheet" href="css/pages/cards.css">
+  <link rel="stylesheet" href="css/pages/collection.css">
+  <link rel="stylesheet" href="css/pages/datalist.css">
+  <link rel="stylesheet" href="css/pages/medialistview.css">
+  <link rel="stylesheet" href="css/pages/timeline.css">
+  <link rel="stylesheet" href="css/pages/videos.css">
+  <link rel="stylesheet" href="css/pages/maps.css">
+  <link rel="stylesheet" href="css/pages/swiper.css">
+  <link rel="stylesheet" href="css/pages/swiper3d.css">
+  <link rel="stylesheet" href="css/pages/index.css">
+  <link rel="stylesheet" href="css/pages/figure.css">
+  <link rel="stylesheet" href="css/pages/tooltips.css">
+  <link rel="stylesheet" href="css/pages/containers.css">
+  <link rel="stylesheet" href="css/pages/flexbox.css">
+  <link rel="stylesheet" href="css/classes.css">
+  <link rel="stylesheet" href="css/custom.css">
+</head>
+
+<body>
+  <div class="apploader"></div>
+  <div id="app" class="color-theme-blue">
+    <div class="statusbar">
+    </div>
+    <div class="panel-backdrop">
+    </div>
+    <div id="panel-left" class="panel panel-left panel-init panel-cover" data-swipe="true">    
+      <div id="left-panel-page-o-49795" class="page">        
+        <div id="left-panel-page-content-o-37804" class="page-content text-white">
+          <div id="obj-24801" class="block-title block-title-medium text-white">This is the Left Panel
+          </div>   
+          <div id="obj-80178" class="block custom-block">
+            <p id="obj-59046" class="">You can add anything you want here 
+            </p>
+          </div>
+        </div>    
+      </div>
+    </div>
+    <div id="panel-right" class="panel panel-right panel-init panel-cover" data-swipe="true">    
+      <div id="right-panel-page-o-37973" class="page">        
+        <div id="right-panel-page-content-o-54355" class="page-content bg-white text-black">
+          <div id="obj-53150" class="block custom-block mt-2 text-left">
+            <a href="#" class="link icon-only panel-close">
+              <i id="obj-51245" class="fa f7-icons s-4 text-muted">close_round_fill
+              </i>
+            </a>
+          </div>
+          <div id="obj-3777011" class="block custom-block text-center mt-3">
+            <h3 id="obj-8864011" class="h3 text-center mb-0 text-black">Thorium WebApps Widgets
+            </h3>
+            <div id="obj-247471" class="block custom-block text-center mt-1"><img id="obj-406941" src="img/56085.png" alt="www.thorium.com" class="img avatar rounded-circle img-thumbnail"  ="" title="www.thorium.com" onclick="">
+              <p id="obj-445671" class="lead">WebApps are powered by Framework7.<br><br>FrameWork7: 
+                <a href="https://framework7.io" target="_blank" rel="noopener" class="link external">https://framework7.io
+                </a><br>by Vladimir Kharlampidi fromiDangero.us.<br><br>FrameWork7 
+                <a href="https://github.com/framework7io/framework7/ blob/master/LICENSE" target="_blank" rel="noopener" class="link external">Code licensed under MIT
+                </a><br><br>
+              </p>
+            </div>
+            <h3 id="obj-781861" class="h3">
+              <a href="https://www.thoriumbuilder.com" target="_blank" rel="noopener" class="link external">www.thoriumbuilder.com
+              </a>
+            </h3>
+          </div>
+        </div>    
+      </div>
+    </div>
+    <div id="view-main" class="view view-main view-init" data-url="/">
+      <div id="page" class="page" data-name="index">
+        <div id="navbar-o-91002" class="navbar bg-white">
+          <div id="navbg-navbar-o-91002" class="navbar-bg">
+          </div>
+          <div id="navbar-inner-o-62968" class="navbar-inner ">
+            <div id="left-o-47093" class="left">
+              <a href="#" class="link icon-only panel-open" data-panel="left">
+                <i id="obj-334111" class="fa f7-icons ml-1">bars
+                </i>
+              </a>
+            </div>
+            <div id="title-o-35271" class="title">ThoriumBuilder
+              <span id="obj-65005" class="subtitle">PWA Widgets
+              </span>
+            </div>
+            <div id="right-o-35609" class="right">
+              <a href="#" class="link icon-only panel-open" data-panel="right">
+                <i id="obj-282751" class="fa material-icons mr-1">copyright
+                </i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div id="toolbar-o-48106" class="toolbar toolbar-bottom-md tabbar toolbar-bottom tabbar-labels" data-custom-color="false" data-scrollable="false">
+          <div id="o-76816" class="toolbar-inner">
+            <a id="o-24632" href="#tab-1" class="tab-link tab-link-active">
+              <i id="obj-62791" class="icon material-icons  ios-only">bubble_chart
+              </i>
+              <i id="obj-26650" class="icon icon-fill material-icons  ios-only">bubble_chart
+              </i>
+              <i id="obj-63298" class="icon material-icons md-only">bubble_chart
+              </i>
+              <span id="obj-26988" class="tabbar-label">Widgets
+              </span>
+            </a>
+            <a id="o-22944" href="#tab-2" class="tab-link">
+              <i id="obj-47761" class="icon f7-icons ios-only">rocket_fill
+              </i>
+              <i id="obj-15504" class="icon icon-fill f7-icons ios-only">rocket_fill
+              </i>
+              <i id="obj-72249" class="icon f7-icons md-only">rocket_fill
+              </i>
+              <span id="obj-35939" class="tabbar-label">Effects
+              </span>
+            </a>
+            <a id="o-35780" href="#tab-3" class="tab-link">
+              <i id="obj-60427" class="icon f7-icons ios-only">cloud
+              </i>
+              <i id="obj-28171" class="icon icon-fill f7-icons ios-only">cloud_fill
+              </i>
+              <i id="obj-84915" class="icon material-icons md-only">cloud
+              </i>
+              <span id="obj-44552" class="tabbar-label">Cloud
+              </span>
+            </a>
+            <a id="o-71753" href="#tab-4" class="tab-link">
+              <i id="obj-73094" class="icon f7-icons ios-only">mic_circle_fill
+              </i>
+              <i id="obj-36784" class="icon icon-fill f7-icons ios-only">mic_circle_fill
+              </i>
+              <i id="obj-89475" class="icon f7-icons md-only">mic_circle_fill
+              </i>
+              <span id="obj-45059" class="tabbar-label">albums
+              </span>
+            </a>
+            <a id="o-31391" href="#tab-5" class="tab-link">
+              <i id="obj-57388" class="icon f7-icons ios-only">camera
+              </i>
+              <i id="obj-21078" class="icon icon-fill f7-icons ios-only">camera_fill
+              </i>
+              <i id="obj-81876" class="icon material-icons md-only">camera
+              </i>
+              <span id="obj-45566" class="tabbar-label">Camera
+              </span>
+            </a>
+          </div>
+        </div>  
+        <div id="tabs-o-64324" class="tabs">    
+          <div id="tab-1" class="page-content tab bg-color-white tab-active">   
+            <div id="obj-66751" class="card"> 
+              <div class="unsplash-container"><img id="img-76592" class="card-img-top" src="img/44484.jpg" alt="..." width="100%" data-unsplash-name="William Hook" data-unsplash-username="williamtm" data-unsplash-avatar="https://images.unsplash.com/profile-1453169634616-255c098b7ba9?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=faces&amp;cs=tinysrgb&amp;fit=crop&amp;h=32&amp;w=32">
+                <p class="unsplash-notice">Photo by 
+                  <a class="link external" href="https://unsplash.com/@williamtm?utm_source=thoriumbuilder&amp;utm_medium=referral" target="_blank" rel="noopener">William Hook
+                  </a> on 
+                  <a class="link external" rel="noopener" target="_blank" href="https://unsplash.com/?utm_source=thoriumbuilder&amp;utm_medium=referral">Unsplash
+                  </a>
+                </p>
+              </div>
+              <div id="obj-75195" class="card-content card-content-padding">
+                <h2 id="obj-37942" class="h2 mb-1 font-weight-bold">Thorium Builder
+                </h2>
+                <div id="obj-68779" class="flexbox display-flex flex-row justify-content-flex-start align-items-center flex-nowrap">
+                  <i id="obj-88830" class="fa fa-cog fa-spin fa-fw s-3">
+                  </i>
+                  <h5 id="obj-43053" class="h5 ml-0 mt-0 mb-0">WIDGET LIST
+                  </h5>
+                </div> 
+                <p id="obj-33476" class="lead">This WebApp shows you all the components available in the Fre Edition of Thorium Builder.
+                </p>
+              </div>
+            </div>
+            <div id="obj-46200" class="block-title block-title-medium">Typographie
+            </div>
+            <div id="obj-101261" class="list bg-white text-black mt-0">
+              <ul id="obj-307301">
+                <li id="obj-756521">
+                  <a id="obj-396811" class="item-link item-content" href="/typographie/">
+                    <div id="obj-280281" class="item-media">
+                      <i id="obj-50921" class="fa fa-fw fa-font">
+                      </i>
+                    </div>
+                    <div id="obj-977761" class="item-inner">
+                      <div id="obj-336011" class="item-title">Typographie
+                        <div id="obj-628181" class="item-footer">Text Blocks, Title, Paragraph ...
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+                <li id="obj-80281">
+                  <a id="obj-45474" class="item-link item-content" href="/tooltips/">
+                    <div id="obj-53074" class="item-media">
+                      <i id="obj-24561" class="f7-icons">ellipses_bubble
+                      </i>
+                    </div>
+                    <div id="obj-31981" class="item-inner">
+                      <div id="obj-28096" class="item-title">Tooltip and Popover
+                        <div id="obj-26286" class="item-footer">tooltip and popovers
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div id="obj-45221" class="block-title block-title-medium">Containers, grids, flexbox
+            </div>
+            <div id="obj-60883" class="list bg-white">
+              <ul id="obj-40955">
+                <li id="obj-33018">
+                  <a id="obj-16918" class="item-link item-content" href="/containers/">
+                    <div id="obj-13090" class="item-media">
+                      <i id="obj-23807" class="f7-icons">square
+                      </i>
+                    </div>
+                    <div id="obj-13427" class="item-inner">
+                      <div id="obj-25756" class="item-title">Block Container
+                      </div>
+                    </div>
+                  </a>
+                </li>
+                <li id="obj-26432">
+                  <a id="obj-21647" class="item-link item-content" href="/grid/">
+                    <div id="obj-59533" class="item-media">
+                      <i id="obj-53024" class="material-icons">grid_on
+                      </i>
+                    </div>
+                    <div id="obj-68146" class="item-inner">
+                      <div id="obj-36058" class="item-title">Grid
+                      </div>
+                    </div>
+                  </a>
+                </li>
+                <li id="obj-53285">
+                  <a id="obj-61620" class="item-link item-content" href="/flexbox/">
+                    <div id="obj-51427" class="item-media">
+                      <i id="obj-78019" class="material-icons">aspect_ratio
+                      </i>
+                    </div>
+                    <div id="obj-92635" class="item-inner">
+                      <div id="obj-20185" class="item-title">Flexbox
+                      </div>
+                    </div>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div id="obj-87489" class="block-title block-title-medium">Icons, Pictures, Buttons ...
+            </div>
+            <div id="obj-1012611" class="list bg-white text-black mt-0">
+              <ul id="obj-3073011">
+                <li id="obj-2465511">
+                  <a id="obj-6197811" class="item-link item-content" href="/images/">
+                    <div id="obj-2246011" class="item-media">
+                      <i id="obj-79122" class="material-icons">image
+                      </i>
+                    </div>
+                    <div id="obj-7295611" class="item-inner">
+                      <div id="obj-7397011" class="item-title">Images
+                        <div id="obj-8309011" class="item-footer">Images, Avatar ....
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+                <li id="obj-6552211">
+                  <a id="obj-6636711" class="item-link item-content" href="/icons/">
+                    <div id="obj-8747711" class="item-media">
+                      <i id="obj-15115" class="f7-icons">bolt_round_fill
+                      </i>
+                    </div>
+                    <div id="obj-8933611" class="item-inner">
+                      <div id="obj-7008311" class="item-title">Icons
+                        <div id="obj-2364111" class="item-footer">Icons, with or without Link
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+                <li id="obj-5977911">
+                  <a id="obj-5285511" class="item-link item-content" href="/buttons/">
+                    <div id="obj-6569011" class="item-media">
+                      <i id="obj-15791" class="material-icons">looks_one
+                      </i>
+                    </div>
+                    <div id="obj-2262511" class="item-inner">
+                      <div id="obj-6788611" class="item-title">Buttons
+                        <div id="obj-4035811" class="item-footer">Buttons, Buttons Row , ...
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+                <li id="obj-7979911">
+                  <a id="obj-6612011" class="item-link item-content" href="/swiper3d/">
+                    <div id="obj-8435911" class="item-media">
+                      <i id="obj-89255" class="material-icons">3d_rotation
+                      </i>
+                    </div>
+                    <div id="obj-3605911" class="item-inner">
+                      <div id="obj-3251311" class="item-title">3D Swiper
+                        <div id="obj-6432111" class="item-footer">Swiper Slider Images Layout
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+                <li id="obj-3292611">
+                  <a id="obj-7582311" class="item-link item-content" href="/chipstags/">
+                    <div id="obj-3343311" class="item-media">
+                      <i id="obj-65612" class="f7-icons">exclamationmark_square_fill
+                      </i>
+                    </div>
+                    <div id="obj-7413411" class="item-inner">
+                      <div id="obj-5842811" class="item-title">Chips
+                        <div id="obj-1012811" class="item-footer">Chips and Tags
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+                <li id="obj-67602">
+                  <a id="obj-88910" class="item-link item-content" href="/figure/">
+                    <div id="obj-82832" class="item-media">
+                      <i id="obj-33862" class="f7-icons">eye_fill
+                      </i>
+                    </div>
+                    <div id="obj-15249" class="item-inner">
+                      <div id="obj-11364" class="item-title">Figure
+                        <div id="obj-92215" class="item-footer">Figure (Image with Contents)
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+                <li id="obj-9457811">
+                  <a id="obj-2044011" class="item-link item-content" href="/fab/">
+                    <div id="obj-3850911" class="item-media">
+                      <i id="obj-26431" class="f7-icons">plus_circle_fill
+                      </i>
+                    </div>
+                    <div id="obj-9137011" class="item-inner">
+                      <div id="obj-9204511" class="item-title">FAB
+                        <div id="obj-4374511" class="item-footer">Floating Action Button
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div id="obj-65239" class="block-title block-title-medium">DataList, MediaList, Card ...
+            </div>
+            <div id="obj-10126111" class="list bg-white text-black mt-0">
+              <ul id="obj-30730111">
+                <li id="obj-73498111">
+                  <a id="obj-23340111" class="item-link item-content" href="/cards/">
+                    <div id="obj-74005111" class="item-media">
+                      <i id="obj-98648" class="f7-icons">creditcard_fill
+                      </i>
+                    </div>
+                    <div id="obj-21651111" class="item-inner">
+                      <div id="obj-98999111" class="item-title">Cards
+                        <div id="obj-50699111" class="item-footer">Card Layout and Expandable Cards
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+                <li id="obj-71160111">
+                  <a id="obj-93959111" class="item-link item-content" href="/datalist/">
+                    <div id="obj-71666111" class="item-media">
+                      <i id="obj-30758" class="f7-icons">list_number_rtl
+                      </i>
+                    </div>
+                    <div id="obj-23366111" class="item-inner">
+                      <div id="obj-15767111" class="item-title">Data List
+                        <div id="obj-38665111" class="item-footer">Custom Data List View
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+                <li id="obj-57369111">
+                  <a id="obj-23424111" class="item-link item-content" href="/medialistview/">
+                    <div id="obj-61929111" class="item-media">
+                      <i id="obj-27380" class="f7-icons">square_list
+                      </i>
+                    </div>
+                    <div id="obj-13628111" class="item-inner">
+                      <div id="obj-90977111" class="item-title">Media List View
+                        <div id="obj-93530111" class="item-footer">List layout with images
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+                <li id="obj-79863111">
+                  <a id="obj-13662111" class="item-link item-content" href="/timeline/">
+                    <div id="obj-44060111" class="item-media">
+                      <i id="obj-11843" class="f7-icons">timer
+                      </i>
+                    </div>
+                    <div id="obj-88814111" class="item-inner">
+                      <div id="obj-77162111" class="item-title">TimeLine
+                        <div id="obj-84596111" class="item-footer">a TimeLine layout
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+                <li id="obj-69866">
+                  <a id="obj-50445" class="item-link item-content" href="/collection/">
+                    <div id="obj-11417" class="item-media">
+                      <i id="obj-77201" class="f7-icons">circle_grid_3x3
+                      </i>
+                    </div>
+                    <div id="obj-21566" class="item-inner">
+                      <div id="obj-17682" class="item-title">Collection
+                        <div id="obj-62266" class="item-footer">Collection (Smart Image Grid)
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div id="obj-93197" class="block-title block-title-medium">Maps, Video, Audio...
+            </div>
+            <div id="obj-101261111" class="list bg-white text-black mt-0">
+              <ul id="obj-307301111">
+                <li id="obj-789421111">
+                  <a id="obj-757351111" class="item-link item-content" href="/videos/">
+                    <div id="obj-921151111" class="item-media">
+                      <i id="obj-94028" class="f7-icons">film_fill
+                      </i>
+                    </div>
+                    <div id="obj-642501111" class="item-inner">
+                      <div id="obj-247321111" class="item-title">Videos &amp; Sounds
+                        <div id="obj-442161111" class="item-footer">HTML videos / Audio  &amp; youTube / DailyMotion
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+                <li id="obj-169571111">
+                  <a id="obj-931241111" class="item-link item-content" href="/maps/">
+                    <div id="obj-215171111" class="item-media">
+                      <i id="obj-91833" class="fa fa-fw fa-map-marker">
+                      </i>
+                    </div>
+                    <div id="obj-622181111" class="item-inner">
+                      <div id="obj-951501111" class="item-title">Map
+                        <div id="obj-450861111" class="item-footer">Google Map or OSM Embed
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div id="obj-39098" class="block-title block-title-medium">Pagination and Navigation
+            </div>
+            <div id="obj-1012611111" class="list bg-white text-black mt-0">
+              <ul id="obj-3073011111">
+                <li id="obj-3354411111">
+                  <a id="obj-5707511111" class="item-link item-content" href="/accordion/">
+                    <div id="obj-2628211111" class="item-media">
+                      <i id="obj-60867" class="f7-icons">layers_alt_fill
+                      </i>
+                    </div>
+                    <div id="obj-4283311111" class="item-inner">
+                      <div id="obj-4756211111" class="item-title">Accordion
+                        <div id="obj-8101311111" class="item-footer">Accordion layout
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+                <li id="obj-4465811111">
+                  <a id="obj-4246311111" class="item-link item-content" href="/swiper/">
+                    <div id="obj-6931511111" class="item-media">
+                      <i id="obj-21180" class="f7-icons">book
+                      </i>
+                    </div>
+                    <div id="obj-7759111111" class="item-inner">
+                      <div id="obj-9008811111" class="item-title">Swiper
+                        <div id="obj-5189511111" class="item-footer">Swiper Slider Layout
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>    
+          <div id="tab-2" class="page-content tab bg-white infinite-scroll-content" data-distance="50">
+            <div id="obj-5287112" class="block-title">Page Effects
+            </div>
+            <div id="obj-65588" class="block custom-block mb-3">
+              <a id="obj-15546" class="col button button-raised button-fill" data-transition="f7-circle" href="/collection/">Circle Effect
+              </a>
+            </div>
+            <div id="obj-42053" class="block custom-block mt-3 mb-3">
+              <a id="obj-34622" class="col button button-raised button-fill" data-transition="f7-cover" href="/collection/">Cover Effect
+              </a>
+            </div>
+            <div id="obj-90214" class="block custom-block mt-3 mb-3">
+              <a id="obj-78730" class="col button button-raised button-fill" data-transition="f7-cover-v" href="/collection/">Cover - V  Effect
+              </a>
+            </div>
+            <div id="obj-30273" class="block custom-block mt-3 mb-3">
+              <a id="obj-18789" class="col button button-raised button-fill" data-transition="f7-dive" href="/collection/">Dive  Effect
+              </a>
+            </div>
+            <div id="obj-95667" class="block custom-block mt-3 mb-3">
+              <a id="obj-84183" class="col button button-raised button-fill" data-transition="f7-fade" href="/collection/">Fade Effect
+              </a>
+            </div>
+            <div id="obj-25037" class="block custom-block mt-3 mb-3">
+              <a id="obj-21660" class="col button button-raised button-fill" data-transition="f7-flip" href="/collection/">Flip Effect
+              </a>
+            </div>
+            <div id="obj-33501" class="block custom-block mt-3 mb-3">
+              <a id="obj-98859" class="col button button-raised button-fill" data-transition="f7-parallax" href="/collection/">Parallax Effect
+              </a>
+            </div>
+            <div id="obj-83445" class="block custom-block mt-3 mb-3">
+              <a id="obj-59802" class="col button button-raised button-fill" data-transition="f7-push" href="/collection/">Push Effect
+              </a>
+            </div>
+          </div>    
+          <div id="tab-3" class="page-content tab bg-white">
+            <div id="obj-528711" class="block-title">This is a tab contents
+            </div>
+          </div>
+          <div id="tab-4" class="page-content tab bg-white">
+            <div id="obj-5287111" class="block-title">This is a tab contents
+            </div>
+          </div>
+          <div id="tab-5" class="page-content tab bg-white">
+            <div id="obj-52871111" class="block-title">This is a tab contents
+            </div>
+          </div>  
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript" src="js/framework/framework7.bundle.min.js"></script>
+    <script type="text/javascript" src="js/thorium.config.js"></script>
+  <script type="text/javascript" src="js/plugins/thorium.core.min.js"></script>
+  <script type="text/javascript" src="js/custom.js"></script>
+  <script src="capacitor.js"></script>
+
+</body>
+</html>

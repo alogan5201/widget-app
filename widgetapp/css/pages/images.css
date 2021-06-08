@@ -1,0 +1,66 @@
+/* -- custom css for file images.html -- */
+
+/* -- block custom-block bg-white text-center block-strong inset -- */
+#obj-69241 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- lazy lazy-fadein img-fluid img-zoom -- */
+#obj-87923 {
+	max-width: 121px;
+}
+
+/* -- img w-100 img-thumbnail lazy lazy-fadein img-fluid -- */
+#obj-92771 {
+	filter: blur(5px);
+}
+
+/* -- img w-100 img-thumbnail lazy lazy-fadein img-fluid:hover -- */
+#obj-92771:hover {
+	filter: blur(0px);
+	-webkit-filter: blur(0px);
+
+}
+
+/* -- img w-100 img-thumbnail lazy lazy-fadein img-fluid -- */
+#obj-54840 {
+	filter: sepia(100%);
+}
+
+/* -- img w-100 img-thumbnail lazy lazy-fadein img-fluid:hover -- */
+#obj-54840:hover {
+	filter: sepia(0%);
+	-webkit-filter: sepia(0%);
+
+}
+
+/* -- block custom-block text-center block-strong inset -- */
+#obj-28664 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- mr-2 rounded-circle img-thumbnail img-zoom -- */
+#obj-63048 {
+	max-width: 64px;
+}
+
+/* -- mr-2 rounded-circle img-thumbnail img-zoom -- */
+#obj-37569 {
+	max-width: 64px;
+}
+
+/* -- rounded-circle img-thumbnail img-zoom -- */
+#obj-76801 {
+	max-width: 64px;
+}
+

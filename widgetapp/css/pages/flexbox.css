@@ -1,0 +1,98 @@
+/* -- custom css for file flexbox.html -- */
+
+/* -- block custom-block block-strong inset -- */
+#obj-5661422 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- flexbox display-flex flex-row justify-content-center align-items-center flex-nowrap -- */
+#obj-37671 {
+	height: 60px;
+}
+
+/* -- block custom-block block-strong inset -- */
+#obj-566141 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- flexbox display-flex flex-row justify-content-space-between align-items-center flex-nowrap text-success -- */
+#obj-376711 {
+	height: 60px;
+}
+
+/* -- block custom-block block-strong inset -- */
+#obj-5661412 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- flexbox display-flex flex-row justify-content-space-around align-items-center flex-nowrap text-danger -- */
+#obj-3767112 {
+	height: 60px;
+}
+
+/* -- block custom-block block-strong inset -- */
+#obj-5661411 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- flexbox display-flex flex-column justify-content-space-between align-items-center flex-nowrap text-warning -- */
+#obj-3767111 {
+	height: 120px;
+}
+
+/* -- block custom-block block-strong inset -- */
+#obj-61925 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- flexbox display-flex flex-row align-items-center flex-nowrap -- */
+#obj-30497 {
+	height: 110px;
+}
+
+/* -- flexbox display-flex -- */
+#obj-67624 {
+	width: 115px;
+}
+
+/* -- img avatar rounded-circle img-thumbnail -- */
+#obj-55831 {
+	width: 50px;
+	 height: 50px;
+}
+
+/* -- h6 mt-0 mb-0 -- */
+#obj-30473 {
+	font-size: 20px;
+}
+
+/* -- lead mt-0 mb-0 text-muted -- */
+#obj-50430 {
+	font-size: 12px;
+}
+

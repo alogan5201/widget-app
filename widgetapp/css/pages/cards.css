@@ -1,0 +1,64 @@
+/* -- custom css for file cards.html -- */
+
+/* -- block custom-block m-0 -- */
+#obj-16167 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- block custom-block -- */
+#obj-42883 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- fa fa-fw fa-adn -- */
+#obj-44105 {
+	color:rgb(255, 254, 254);
+	 background-color:rgb(41, 136, 99);
+}
+
+/* -- fa fa-fw fa-android -- */
+#obj-66060 {
+	color:rgb(255,254,254);
+	 background-color:rgb(25,107,250);
+}
+
+/* -- fa fa-fw fa-apple -- */
+#obj-60150 {
+	color:rgb(255,254,254);
+	 background-color:rgb(209,0,0);
+}
+
+/* -- fa text-muted f7-icons -- */
+#obj-40991 {
+	font-size: 25px;
+}
+
+/* -- fa f7-icons -- */
+#obj-54508 {
+	font-size: 25px;
+}
+
+/* -- fa f7-icons -- */
+#obj-18694 {
+	font-size: 25px;
+}
+
+/* -- figure text-white w-100 embed-responsive text-left -- */
+#obj-21624 {
+	background-image: url("../../img/80664.jpg");
+	 max-width: 100px;
+	 background-size: cover;
+	 min-height: 300px;
+	 height: 300px;
+}
+
